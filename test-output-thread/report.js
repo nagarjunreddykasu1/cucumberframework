@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"95d4917f-a6d9-41d6-857f-c7c86f72491f","feature":"Login","scenario":"Verify the login functionality with invalid credentials","start":1708787116619,"group":1,"content":"","tags":"@login,","end":1708787120366,"className":"passed"},{"id":"dd035bc7-01c7-4b69-8b18-fad266b772a6","feature":"Shopping Cart","scenario":"Verify the purchasing of a product","start":1708787109038,"group":1,"content":"","tags":"@cart,","end":1708787113261,"className":"passed"},{"id":"a7e82137-4715-4a6a-8160-f0caa6000911","feature":"Login","scenario":"Verify the login functionality with valid credentials","start":1708787113267,"group":1,"content":"","tags":"@login,","end":1708787116613,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
