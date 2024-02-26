@@ -24,7 +24,7 @@ public class CartPage {
 	public String msgCheckoutOverview="Checkout: Overview";
 	
 	public String msgCheckoutComplete="Checkout: Complete!";
-	public String msgCompleteOrder="Thank you for your order!";
+	public String msgCompleteOrder="Thank you for your order";
 	
 	public void addProductToCart() {
 		try {
